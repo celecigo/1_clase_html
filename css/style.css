@@ -8,14 +8,21 @@ h1{
 
  img-logo {
     width: 300; height: 200;
-    align-self: center;
+    align-self: center,center;
 }
 
- img-fondo {
-    align-self: center;
-    display: flex;
+
+p{
+    color: aliceblue;
 }
 
+h2{
+    color: aliceblue;
+    font-size: 20px;
+}
+h3{
+    color: aliceblue;
+}
 body {
         font-size: 100%;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
